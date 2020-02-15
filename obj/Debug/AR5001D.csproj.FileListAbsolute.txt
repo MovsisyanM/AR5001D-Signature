@@ -1,0 +1,5 @@
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\VioletRecon\AR5001D\bin\Debug\AR5001D.dll
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\VioletRecon\AR5001D\bin\Debug\AR5001D.pdb
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\VioletRecon\AR5001D\obj\Debug\AR5001D.csprojResolveAssemblyReference.cache
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\VioletRecon\AR5001D\obj\Debug\AR5001D.dll
+C:\Users\YCRDI\Desktop\4.05.2018_Manushak_operator_stugvac\log\t\VioletRecon\AR5001D\obj\Debug\AR5001D.pdb
